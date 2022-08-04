@@ -4,8 +4,6 @@
 
 👋 Hi, I'm Steven
 
-👨 A motivated learner that faces challenges and overcome obstacles with courage 
-
 😺 Currently as a final-year Computer Science undergraduate @Monash Uni
 
 🌱 I am learning full stack development and DevOps
