@@ -1,16 +1,12 @@
-```md
-
-```
-
-###  :man_technologist:  [Steven Ding](https://yaoyangdi.github.io) 
+#  :man_technologist:  [Steven Ding](https://yaoyangdi.github.io) 
 
 <br />
 
 👋 Hi, I'm Steven
 
-A final year Computer Science undergraduate @MonashUni
+😺 A final year Computer Science undergraduate @MonashUni
 
-I am currently learning full stack development and DevOps
+🌱 I am currently learning full stack development and DevOps
 
 <img src="assets/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966.gif" alt="img" style="zoom: 150%;" />
 
