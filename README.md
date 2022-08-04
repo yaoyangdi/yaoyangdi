@@ -4,9 +4,13 @@
 
 👋 Hi, I'm Steven
 
-😺 A final year Computer Science undergraduate @MonashUni
+👨 A motivated learner that faces challenges and overcome obstacles with courage 
+
+😺 Currently as a final-year Computer Science undergraduate @Monash Uni
 
 🌱 I am currently learning full stack development and DevOps
+
+🙌 I have gained some basic understanding on the front end and am now moving deeper into the back end
 
 <img src="assets/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966.gif" alt="img" style="zoom: 150%;" />
 
@@ -25,9 +29,3 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
-
-
-
-
- 
-
