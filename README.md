@@ -8,7 +8,7 @@
 
 😺 Currently as a final-year Computer Science undergraduate @Monash Uni
 
-🌱 I am currently learning full stack development and DevOps
+🌱 I am learning full stack development and DevOps
 
 🙌 I have gained some basic understanding on the front end and am now moving deeper into the back end
 
